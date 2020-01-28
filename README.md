@@ -1,8 +1,8 @@
 # cpp_docker
-用C++实现一个简单的容器，最后我们将实现下面这些功能：
+Use C++ to implement a naive docker, we will realized the following functions:
 
-- [x] 独立的文件系统
+- [x] Independent file system
 
-- [x] 网络访问的支持
+- [x] Network access support
 
-- [x] 容器资源的限制
+- [x] Limitation of container resources
