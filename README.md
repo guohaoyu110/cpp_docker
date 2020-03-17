@@ -1,5 +1,5 @@
 # cpp_docker
-Use C++ to implement a naive docker, I realize the following functions:
+Use C++ to implement a naive docker, I implement the following functions:
 
 - [x] Independent file system
 
