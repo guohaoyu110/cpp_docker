@@ -9,7 +9,7 @@ int main(int argc, char** argv){
     std::cout << "...start container"<< std::endl;
     docker::container_config config;
 
-    // 配置容易
+    // 配置容器
     // ....
 
     docker::container container(config);
