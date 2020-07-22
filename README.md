@@ -16,3 +16,5 @@ The difference between "namespace" mean in C++, Linux and Docker:
 
 * In Docker technique, we often hear the terms LXC and system-level virtualization. LXC uses the technique of Namespace to achieve resource isolation before different containers. With Namespace technique, processes in different containers belong to different Namespaces and do not interfere with each other. In general, Namespace provides a lightweight form of virtualization, allowing us to run system global properties.
 
+## Screenshots
+![Markdown preferences pane](https://github.com/guohaoyu110/cpp_docker/blob/master/docker-cpp-image.png)
