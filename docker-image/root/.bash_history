@@ -1,0 +1,3 @@
+ping
+ifconfig
+exit
